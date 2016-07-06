@@ -1,0 +1,9 @@
+pyyaml
+pandas
+numpy
+scipy
+matplotlib
+matlab_wrapper
+soundfile
+mir_eval
+texttable
